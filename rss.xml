@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Corporate-Prophet ]]></title>
         <description><![CDATA[Corporate-Prophet ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/corporate-prophet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:53:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 17:04:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/corporate-prophet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://www.udemy.com/remote-viewing-basics/?couponCode=Corporate-Prophet</p>]]></description>
-            <link>undefined82dc14be-701b-4293-9380-bd6ef33fac8d/index.html</link>
+            <title><![CDATA[Remote Viewing Basics]]></title>
+            <description><![CDATA[<article><h1>Remote Viewing Basics</h1><p>Remote Viewing course $49 online </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3044c4-d627-48f2-a948-af2630f5f7d3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/corporate-prophet/82dc14be-701b-4293-9380-bd6ef33fac8d/index.html</link>
             <guid isPermaLink="false">82dc14be-701b-4293-9380-bd6ef33fac8d</guid>
-            <pubDate>Wed, 10 Feb 2016 16:53:13 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 17:02:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
