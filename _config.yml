@@ -1,0 +1,28 @@
+name: Corporate-Prophet
+favicon: null
+layout_spectrum: 0.8946897217538208
+typography_spectrum: 0.7942593100015074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.875
+  lightness: 0.13039739918895066
+  saturation: 0.7139450230170041
+  rhythmicContrast: 0.9255879039410502
+purpose: []
